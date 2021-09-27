@@ -16,3 +16,5 @@ function square(base){
   let result = Math.pow(base,2)
   return result
 }
+
+// function square 
